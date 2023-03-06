@@ -64,10 +64,6 @@ public class TC_MainPageTest extends BasePage {
         login2.continueBttnMethod();
         Thread.sleep(2000);
         login2.finishBttnMethod();
-
-
-
-
     }
 
 }
