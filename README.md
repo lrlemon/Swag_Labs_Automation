@@ -6,7 +6,7 @@ It's a demo site Which helps us design, shop, and ship the highest quality corpo
 
 
 
-IDE: Eclipse
+IDE: InteliJ IDEA
 
 
 
